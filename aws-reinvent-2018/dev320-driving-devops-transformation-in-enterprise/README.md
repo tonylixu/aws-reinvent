@@ -83,4 +83,10 @@ Berksfile
   - Contains source and list of cookbooks
 
 Monitoring and logging:
+  - Cloudwatch
+
+Questions:
+  - Where are we in terms of culture, practice and tools?
+  - How do we improve?
+  - What's the 1 month, 2 month, quater goal?
 
