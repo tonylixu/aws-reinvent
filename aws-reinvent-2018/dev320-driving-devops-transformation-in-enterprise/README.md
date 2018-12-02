@@ -1,5 +1,7 @@
 ## Notes
 
+Youtube: https://www.youtube.com/watch?v=qlVdUMcjfBY
+
 Why does DevOps matter?
 
 DevOps Model
